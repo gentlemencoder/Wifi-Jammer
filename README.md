@@ -1,5 +1,9 @@
 NODEMCU ESP8266 WİFİ JAMMER SETUP
 -
+![nodemcu-photograph](https://user-images.githubusercontent.com/103741376/164037454-4bc98170-305a-4e37-9378-11e1a2aa7226.jpg)
+
+
+
 After opening the file, follow the steps below
 
 1- setup > (computer how many bits) 64 or 32 bit > release > ESP8266Flasher.exe
